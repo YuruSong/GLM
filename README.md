@@ -8,3 +8,4 @@ Jan 07 2020
 
 3. GLM first, simple things first.
 
+4. Use lab machine, not mine. Establish the remote access.
