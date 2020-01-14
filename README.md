@@ -3,7 +3,8 @@ Jan 13 2020
 --------------
 Trying GLM on binary output, i.e. search or not, chase or not. 
 
-About behavior bout, how to select them? First, look at the time length distribution of these two behaviors.
+About behavior bout, how to select them? First, look at the time length distribution of these two behaviors. Run MATLAB program 'behav_length_stat.m' and 'plot_behav_length_stat.m'
+
 ![](bout_length_stat.jpg)
 --------------
 Jan 07 2020
