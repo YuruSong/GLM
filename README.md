@@ -1,7 +1,7 @@
 --------------
 Jan 14 2020
 --------------
-Bout triggered average. 
+Bout triggered average. Check all the features prior to the initiation of 'chase' and 'search' behaviors.
 
 --------------
 Jan 13 2020
