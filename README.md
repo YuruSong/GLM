@@ -1,8 +1,9 @@
 --------------
 Jan 13 2020
 --------------
-Trying GLM on binary output, i.e. search or not, chase or not. But need to think about how to segment 'bout'.
+Trying GLM on binary output, i.e. search or not, chase or not. 
 
+About behavior bout, how to select them? First, look at the time length distribution of these two behaviors.
 
 --------------
 Jan 07 2020
