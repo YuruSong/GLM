@@ -16,3 +16,9 @@ Jan 07 2020
 3. GLM first, simple things first.
 
 4. Use lab machine, not mine. Establish the remote access.
+
+
+--------------
+Jan 06 2020
+--------------
+After many lessons from previous experience, I decided to take detailed record of coding/analysis during a project. Let's see if this will make a difference!
