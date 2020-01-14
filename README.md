@@ -1,4 +1,9 @@
 --------------
+Jan 14 2020
+--------------
+Bout triggered average. 
+
+--------------
 Jan 13 2020
 --------------
 Trying GLM on binary output, i.e. search or not, chase or not. 
@@ -9,7 +14,7 @@ Shown in the following figure, the second group (WT/Or47b Light) data seems weir
 
 ![](behav_length_stat.jpg)
 
-Back to the bout selection, 
+Back to the bout selection, if the 'chase' lasts longer than 0.5s (I determine it arbitrarily, based on the distribution), then count it as a 'chase' bout. Next step: bout triggered average for the 'chase' bouts.
 
 --------------
 Jan 07 2020
