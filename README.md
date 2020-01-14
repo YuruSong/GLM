@@ -1,4 +1,10 @@
 --------------
+Jan 13 2020
+--------------
+Trying GLM on binary output, i.e. search or not, chase or not. But need to think about how to segment 'bout'.
+
+
+--------------
 Jan 07 2020
 --------------
 
