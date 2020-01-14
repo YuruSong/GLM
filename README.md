@@ -7,7 +7,7 @@ About behavior bout, how to select them? First, look at the time length distribu
 
 Shown in the following figure, the second group (WT/Or47b Light) data seems weird in the search behavior. After discussing with April, I decided to neglect the search behavior in light, which is meanningless (?, I don't know. I totally don't know).
 
-![](bout_length_stat.jpg)
+![](bout_length_stat.eps)
 --------------
 Jan 07 2020
 --------------
